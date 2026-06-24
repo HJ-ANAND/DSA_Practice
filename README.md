@@ -27,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0686-repeated-string-match) |
+## Database
+|  |
+| ------- |
+| [1729-find-followers-count](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1729-find-followers-count) |
 <!---LeetCode Topics End-->
