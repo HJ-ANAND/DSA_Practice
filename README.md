@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/HJ-ANAND/DSA_Practice/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/HJ-ANAND/DSA_Practice/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/HJ-ANAND/DSA_Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
@@ -58,5 +60,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/HJ-ANAND/DSA_Practice/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/HJ-ANAND/DSA_Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Sliding Window
+|  |
+| ------- |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/HJ-ANAND/DSA_Practice/tree/master/2302-count-subarrays-with-score-less-than-k) |
 <!---LeetCode Topics End-->
