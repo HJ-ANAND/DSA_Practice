@@ -95,4 +95,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0096-unique-binary-search-trees) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
