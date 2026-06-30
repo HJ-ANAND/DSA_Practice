@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0076-minimum-window-substring) |
 | [0686-repeated-string-match](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0686-repeated-string-match) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## String Matching
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0076-minimum-window-substring) |
 | [0146-lru-cache](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0146-lru-cache) |
 | [0992-subarrays-with-k-different-integers](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0992-subarrays-with-k-different-integers) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HJ-ANAND/DSA_Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/HJ-ANAND/DSA_Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/HJ-ANAND/DSA_Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0076-minimum-window-substring) |
 | [0992-subarrays-with-k-different-integers](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0992-subarrays-with-k-different-integers) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/HJ-ANAND/DSA_Practice/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HJ-ANAND/DSA_Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/HJ-ANAND/DSA_Practice/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
