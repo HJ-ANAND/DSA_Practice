@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0096-unique-binary-search-trees) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -24,12 +25,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0096-unique-binary-search-trees) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0701-insert-into-a-binary-search-tree) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/HJ-ANAND/DSA_Practice/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Binary Tree
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0096-unique-binary-search-trees) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0701-insert-into-a-binary-search-tree) |
 ## String
 |  |
 | ------- |
