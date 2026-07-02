@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0038-count-and-say](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0038-count-and-say) |
 | [0076-minimum-window-substring](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0076-minimum-window-substring) |
+| [0165-compare-version-numbers](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0165-compare-version-numbers) |
 | [0686-repeated-string-match](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0686-repeated-string-match) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -179,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1254-number-of-closed-islands) |
 | [1765-map-of-highest-peak](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1765-map-of-highest-peak) |
+## Two Pointers
+|  |
+| ------- |
+| [0165-compare-version-numbers](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0165-compare-version-numbers) |
 <!---LeetCode Topics End-->
