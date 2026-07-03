@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0096-unique-binary-search-trees) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0540-single-element-in-a-sorted-array](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0701-insert-into-a-binary-search-tree) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/HJ-ANAND/DSA_Practice/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Binary Tree
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0463-island-perimeter) |
+| [0540-single-element-in-a-sorted-array](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0733-flood-fill) |
