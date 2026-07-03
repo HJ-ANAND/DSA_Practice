@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0872-leaf-similar-trees](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0872-leaf-similar-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0733-flood-fill) |
+| [0872-leaf-similar-trees](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0872-leaf-similar-trees) |
 | [1020-number-of-enclaves](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1254-number-of-closed-islands) |
 ## Binary Search Tree
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0872-leaf-similar-trees](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0872-leaf-similar-trees) |
 ## String
 |  |
 | ------- |
