@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0096-unique-binary-search-trees) |
 | [1248-count-number-of-nice-subarrays](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1248-count-number-of-nice-subarrays) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/HJ-ANAND/DSA_Practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Dynamic Programming
 |  |
 | ------- |
