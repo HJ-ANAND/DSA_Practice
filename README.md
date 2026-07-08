@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0733-flood-fill) |
 | [0752-open-the-lock](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0752-open-the-lock) |
+| [0986-interval-list-intersections](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0986-interval-list-intersections) |
 | [0992-subarrays-with-k-different-integers](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1020-number-of-enclaves) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0165-compare-version-numbers) |
+| [0986-interval-list-intersections](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0986-interval-list-intersections) |
 ## Graph Theory
 |  |
 | ------- |
@@ -229,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0886-possible-bipartition) |
 | [1971-find-if-path-exists-in-graph](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1971-find-if-path-exists-in-graph) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
