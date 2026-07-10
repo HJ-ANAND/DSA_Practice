@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0872-leaf-similar-trees) |
 ## Depth-First Search
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0841-keys-and-rooms) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0872-leaf-similar-trees) |
 | [0886-possible-bipartition](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0886-possible-bipartition) |
 | [1020-number-of-enclaves](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1020-number-of-enclaves) |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0872-leaf-similar-trees) |
 ## String
 |  |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0076-minimum-window-substring) |
 | [0146-lru-cache](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0146-lru-cache) |
 | [0752-open-the-lock](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0752-open-the-lock) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -187,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0752-open-the-lock](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0752-open-the-lock) |
 | [0785-is-graph-bipartite](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0841-keys-and-rooms) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0886-possible-bipartition](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0886-possible-bipartition) |
 | [0994-rotting-oranges](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1020-number-of-enclaves) |
