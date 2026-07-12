@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0038-count-and-say](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0038-count-and-say) |
 | [0076-minimum-window-substring](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0127-word-ladder) |
 | [0165-compare-version-numbers](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0165-compare-version-numbers) |
 | [0686-repeated-string-match](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0686-repeated-string-match) |
 | [0752-open-the-lock](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0752-open-the-lock) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0127-word-ladder) |
 | [0146-lru-cache](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0146-lru-cache) |
 | [0752-open-the-lock](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0752-open-the-lock) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0463-island-perimeter) |
