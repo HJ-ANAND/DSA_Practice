@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1248-count-number-of-nice-subarrays](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1306-jump-game-iii) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-possible-bipartition](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0886-possible-bipartition) |
 | [0994-rotting-oranges](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1345-jump-game-iv) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1254-number-of-closed-islands) |
 | [1765-map-of-highest-peak](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1765-map-of-highest-peak) |
 ## Two Pointers
