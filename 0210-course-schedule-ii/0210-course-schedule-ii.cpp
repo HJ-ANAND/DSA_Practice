@@ -1,25 +1,9 @@
 class Solution {
 public:
-    bool DFS(int s, vector<vector<int>>gr, vector<int> &vis, stack<int> &st, vector<int> &pv){
-        vis[s] = true;
-        pv[s] = 1;
-
-        for(auto u : gr[s]){
-            if(!vis[u]){
-                if(DFS(u, gr, vis, st, pv)) return true;
-            }
-            else if(pv[u]) return true;
-        }
-
-        pv[s] = 0;
-        st.push(s);
-        return false;
-    }
-
     vector<vector<int>> solve(vector<vector<int>> gr, int n){
-        vector<vector<int>> ans(n);
+        vector<vector<int>> ans(n);;
 
-        for(auto e : gr){
+        for(auto &e : gr){
             int u = e[0];
             int v = e[1];
             ans[v].push_back(u);
@@ -27,26 +11,37 @@ public:
 
         return ans;
     }
+    vector<int> findOrder(int n, vector<vector<int>>& pre) {
+        vector<vector<int>> adj = solve(pre, n);
+        unordered_map<int, int> mpp;
 
-    vector<int> findOrder(int n, vector<vector<int>>& gr) {
-        vector<vector<int>> adj = solve(gr, n);
-        stack<int> st;
-        vector<int> vis(n, false);
-        vector<int> pathVis(n, 0);
+        for(auto e : pre){
+            mpp[e[0]]++;
+        }
 
         for(int i = 0; i < n; i++){
-            if(!vis[i]){
-                if (DFS(i, adj, vis, st, pathVis)) return {};
-            } 
+            if(!mpp.count(i)) mpp[i] = 0;
+        }
+
+        queue<int> q;
+
+        for(int i = 0; i < n; i++){
+            if(!mpp[i]) q.push(i);
         }
 
         vector<int> ans;
 
-        while(!st.empty()){
-            ans.push_back(st.top());
-            st.pop();
+        while(!q.empty()){
+            int curr = q.front();
+            q.pop();
+            ans.push_back(curr);
+            for(auto e : adj[curr]){
+                mpp[e]--;
+                if(!mpp[e]) q.push(e);
+            }
         }
 
+        for(auto it : mpp) if(it.second > 0) return {};
         return ans;
     }
 };
