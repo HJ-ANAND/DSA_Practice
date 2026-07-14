@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0733-flood-fill) |
 | [0752-open-the-lock](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0752-open-the-lock) |
+| [0815-bus-routes](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0815-bus-routes) |
 | [0986-interval-list-intersections](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0986-interval-list-intersections) |
 | [0992-subarrays-with-k-different-integers](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0994-rotting-oranges) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0146-lru-cache) |
 | [0433-minimum-genetic-mutation](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0433-minimum-genetic-mutation) |
 | [0752-open-the-lock](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0752-open-the-lock) |
+| [0815-bus-routes](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0815-bus-routes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1248-count-number-of-nice-subarrays) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0733-flood-fill) |
 | [0752-open-the-lock](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0752-open-the-lock) |
 | [0785-is-graph-bipartite](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0785-is-graph-bipartite) |
+| [0815-bus-routes](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0815-bus-routes) |
 | [0841-keys-and-rooms](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0841-keys-and-rooms) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0886-possible-bipartition](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0886-possible-bipartition) |
