@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0055-jump-game) |
 | [0130-surrounded-regions](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0200-number-of-islands) |
+| [0416-partition-equal-subset-sum](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0463-island-perimeter](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0463-island-perimeter) |
 | [0540-single-element-in-a-sorted-array](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0542-01-matrix) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0055-jump-game) |
 | [0096-unique-binary-search-trees](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0096-unique-binary-search-trees) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0542-01-matrix) |
 ## Stack
 |  |
