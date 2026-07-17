@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0055-jump-game) |
 | [0130-surrounded-regions](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0200-number-of-islands) |
+| [0322-coin-change](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0463-island-perimeter](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0463-island-perimeter) |
 | [0494-target-sum](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0494-target-sum) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0055-jump-game) |
 | [0096-unique-binary-search-trees](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0096-unique-binary-search-trees) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0322-coin-change](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0542-01-matrix) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0210-course-schedule-ii) |
+| [0322-coin-change](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0322-coin-change) |
 | [0433-minimum-genetic-mutation](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0433-minimum-genetic-mutation) |
 | [0463-island-perimeter](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0542-01-matrix) |
