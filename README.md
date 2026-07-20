@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1248-count-number-of-nice-subarrays](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1254-number-of-closed-islands) |
+| [1260-shift-2d-grid](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1260-shift-2d-grid) |
 | [1306-jump-game-iii](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1345-jump-game-iv) |
 | [1765-map-of-highest-peak](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1765-map-of-highest-peak) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1254-number-of-closed-islands) |
+| [1260-shift-2d-grid](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1260-shift-2d-grid) |
 | [1765-map-of-highest-peak](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1765-map-of-highest-peak) |
 ## Two Pointers
 |  |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/HJ-ANAND/DSA_Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
 |  |
