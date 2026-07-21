@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0127-word-ladder) |
 | [0165-compare-version-numbers](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0165-compare-version-numbers) |
 | [0433-minimum-genetic-mutation](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0433-minimum-genetic-mutation) |
+| [0516-longest-palindromic-subsequence](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0686-repeated-string-match](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0686-repeated-string-match) |
 | [0752-open-the-lock](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0752-open-the-lock) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0343-integer-break) |
 | [0416-partition-equal-subset-sum](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0542-01-matrix) |
 ## Stack
