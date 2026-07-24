@@ -1,27 +1,23 @@
 class Solution {
 public:
-    bool ispal(string s){
-        int i = 0, j = s.size()-1;
+    int solve(string s, int i, int j, vector<vector<int>> &dp){
+        if(i > j) return 1;
+        if(i == j) return 1;
+        if(s[i] != s[j]) return 0;
 
-        while(i <= j){
-            if(s[i] != s[j]) return false;
-            i++;
-            j--;
-        }
+        if(dp[i][j] != -1) return dp[i][j];
 
-        return true;
+        return dp[i][j] = solve(s, i+1, j-1, dp);
     }
 
     int countSubstrings(string s) {
         int count = 0;
         int n = s.size();
+        vector<vector<int>> dp(n+1, vector<int>(n+1, -1));
 
         for(int i = 0; i < n; i++){
             for(int j = i; j < n; j++){
-                int size = j-i+1;
-                if(size){
-                    if(ispal(s.substr(i, size))) count++;
-                }
+                count += solve(s, i, j, dp);
             }
         }
 
