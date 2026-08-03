@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0008-string-to-integer-atoi) |
 | [0038-count-and-say](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0038-count-and-say) |
 | [0076-minimum-window-substring](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0127-word-ladder) |
