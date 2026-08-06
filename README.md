@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1306-jump-game-iii) |
 | [1971-find-if-path-exists-in-graph](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1971-find-if-path-exists-in-graph) |
+| [3310-remove-methods-from-project](https://github.com/HJ-ANAND/DSA_Practice/tree/master/3310-remove-methods-from-project) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1345-jump-game-iv) |
 | [1765-map-of-highest-peak](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1765-map-of-highest-peak) |
 | [1971-find-if-path-exists-in-graph](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1971-find-if-path-exists-in-graph) |
+| [3310-remove-methods-from-project](https://github.com/HJ-ANAND/DSA_Practice/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0886-possible-bipartition) |
 | [1971-find-if-path-exists-in-graph](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1971-find-if-path-exists-in-graph) |
+| [3310-remove-methods-from-project](https://github.com/HJ-ANAND/DSA_Practice/tree/master/3310-remove-methods-from-project) |
 ## Sweep Line
 |  |
 | ------- |
