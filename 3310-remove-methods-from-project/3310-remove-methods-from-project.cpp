@@ -1,6 +1,6 @@
 class Solution {
 public:
-    vector<vector<int>> makeadj(vector<vector<int>> edges, int n){
+    vector<vector<int>> makeadj(vector<vector<int>> &edges, int n){
         vector<vector<int>> ans(n);
 
         for(auto &e : edges){
