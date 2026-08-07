@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1260-shift-2d-grid) |
 | [1306-jump-game-iii](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1345-jump-game-iv) |
+| [1406-stone-game-iii](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1765-map-of-highest-peak](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1765-map-of-highest-peak) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0343-integer-break) |
 | [0877-stone-game](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1248-count-number-of-nice-subarrays) |
+| [1406-stone-game-iii](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/HJ-ANAND/DSA_Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/HJ-ANAND/DSA_Practice/tree/master/3536-maximum-product-of-two-digits) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0647-palindromic-substrings) |
 | [0877-stone-game](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0877-stone-game) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1406-stone-game-iii](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1406-stone-game-iii) |
 ## Stack
 |  |
 | ------- |
@@ -355,8 +358,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1406-stone-game-iii) |
 ## Enumeration
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/HJ-ANAND/DSA_Practice/tree/master/3345-smallest-divisible-digit-product-i) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
