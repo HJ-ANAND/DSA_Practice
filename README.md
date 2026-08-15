@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0841-keys-and-rooms) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0743-network-delay-time) |
 | [0752-open-the-lock](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0752-open-the-lock) |
 | [0785-is-graph-bipartite](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0785-is-graph-bipartite) |
 | [0815-bus-routes](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0815-bus-routes) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0886-possible-bipartition) |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0743-network-delay-time) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting Sort
 |  |
@@ -380,4 +384,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1406-stone-game-iii) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
