@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1260-shift-2d-grid) |
 | [1306-jump-game-iii](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1345-jump-game-iv) |
+| [1386-cinema-seat-allocation](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1765-map-of-highest-peak](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1765-map-of-highest-peak) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1345-jump-game-iv](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HJ-ANAND/DSA_Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3731-find-missing-elements](https://github.com/HJ-ANAND/DSA_Practice/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/HJ-ANAND/DSA_Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0055-jump-game) |
+| [1386-cinema-seat-allocation](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1386-cinema-seat-allocation) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/HJ-ANAND/DSA_Practice/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 ## Sorting
@@ -392,4 +395,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0743-network-delay-time) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1386-cinema-seat-allocation](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1386-cinema-seat-allocation) |
 <!---LeetCode Topics End-->
