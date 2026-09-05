@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0636-exclusive-time-of-functions](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0636-exclusive-time-of-functions) |
 | [0695-max-area-of-island](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0733-flood-fill) |
+| [0746-min-cost-climbing-stairs](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0752-open-the-lock](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0752-open-the-lock) |
 | [0815-bus-routes](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0815-bus-routes) |
 | [0877-stone-game](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0877-stone-game) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0647-palindromic-substrings) |
+| [0746-min-cost-climbing-stairs](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1140-stone-game-ii) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
