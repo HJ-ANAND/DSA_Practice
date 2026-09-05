@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0096-unique-binary-search-trees) |
 | [0343-integer-break](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0343-integer-break) |
 | [0877-stone-game](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0877-stone-game) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0096-unique-binary-search-trees) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0198-house-robber) |
@@ -408,4 +410,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1386-cinema-seat-allocation) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
