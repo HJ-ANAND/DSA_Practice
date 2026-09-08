@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0008-string-to-integer-atoi) |
 | [0038-count-and-say](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0038-count-and-say) |
 | [0076-minimum-window-substring](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0076-minimum-window-substring) |
+| [0091-decode-ways](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0127-word-ladder) |
 | [0165-compare-version-numbers](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0165-compare-version-numbers) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0124-binary-tree-maximum-path-sum) |
