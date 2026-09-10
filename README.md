@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0096-unique-binary-search-trees) |
+| [0279-perfect-squares](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0343-integer-break) |
 | [0877-stone-game](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1140-stone-game-ii) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0322-coin-change) |
 | [0343-integer-break](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0343-integer-break) |
 | [0416-partition-equal-subset-sum](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0416-partition-equal-subset-sum) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0210-course-schedule-ii) |
+| [0279-perfect-squares](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0322-coin-change) |
 | [0433-minimum-genetic-mutation](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0433-minimum-genetic-mutation) |
 | [0463-island-perimeter](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0463-island-perimeter) |
@@ -427,4 +430,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0070-climbing-stairs) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
