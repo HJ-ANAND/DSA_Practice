@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0872-leaf-similar-trees) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/HJ-ANAND/DSA_Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1306-jump-game-iii) |
 | [1971-find-if-path-exists-in-graph](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1971-find-if-path-exists-in-graph) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/HJ-ANAND/DSA_Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/HJ-ANAND/DSA_Practice/tree/master/3310-remove-methods-from-project) |
 ## Binary Search Tree
 |  |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0872-leaf-similar-trees) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/HJ-ANAND/DSA_Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## String
 |  |
 | ------- |
