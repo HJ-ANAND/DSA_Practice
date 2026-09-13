@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0752-open-the-lock](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0752-open-the-lock) |
 | [0815-bus-routes](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0815-bus-routes) |
+| [0835-image-overlap](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0877-stone-game) |
 | [0909-snakes-and-ladders](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0909-snakes-and-ladders) |
 | [0986-interval-list-intersections](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0986-interval-list-intersections) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0733-flood-fill) |
+| [0835-image-overlap](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0835-image-overlap) |
 | [0909-snakes-and-ladders](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1020-number-of-enclaves) |
