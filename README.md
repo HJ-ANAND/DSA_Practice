@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0096-unique-binary-search-trees) |
 | [0279-perfect-squares](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0343-integer-break) |
+| [0836-rectangle-overlap](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1248-count-number-of-nice-subarrays) |
@@ -447,4 +448,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/HJ-ANAND/DSA_Practice/tree/master/3483-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
