@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0130-surrounded-regions) |
 | [0198-house-robber](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0200-number-of-islands) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0096-unique-binary-search-trees) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0463-island-perimeter) |
