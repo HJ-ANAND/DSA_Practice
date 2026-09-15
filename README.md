@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0096-unique-binary-search-trees) |
 | [0279-perfect-squares](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0279-perfect-squares) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0096-unique-binary-search-trees) |
@@ -459,4 +461,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0300-longest-increasing-subsequence) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
