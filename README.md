@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/HJ-ANAND/DSA_Practice/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Binary Tree
 |  |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1765-map-of-highest-peak](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1765-map-of-highest-peak) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1386-cinema-seat-allocation) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HJ-ANAND/DSA_Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3483-unique-3-digit-even-numbers](https://github.com/HJ-ANAND/DSA_Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/HJ-ANAND/DSA_Practice/tree/master/3731-find-missing-elements) |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/HJ-ANAND/DSA_Practice/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/HJ-ANAND/DSA_Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/HJ-ANAND/DSA_Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -202,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/HJ-ANAND/DSA_Practice/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HJ-ANAND/DSA_Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/HJ-ANAND/DSA_Practice/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
