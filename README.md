@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0008-string-to-integer-atoi) |
+| [0020-valid-parentheses](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0038-count-and-say) |
 | [0076-minimum-window-substring](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0091-decode-ways) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0155-min-stack) |
 | [0636-exclusive-time-of-functions](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0636-exclusive-time-of-functions) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -484,5 +486,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/HJ-ANAND/DSA_Practice/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/HJ-ANAND/DSA_Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
